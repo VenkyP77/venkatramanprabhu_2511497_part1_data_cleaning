@@ -25,6 +25,7 @@ part1_data_cleaning/
 ├── screenshots/
 │   ├── raw_data_preview.png
 │   ├── cleaned_data_preview.png
+|   ├── duplicate_records_identified.png
 │   ├── pivot_summary_1.png
 │   ├── pivot_summary_2.png
 |   ├── pivot_summary_3.png
